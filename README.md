@@ -1,24 +1,14 @@
-# vue-app
+# 项目简介
+"chongcizhongkao" 是一个使用 Vue 2 和 Vuex 构建的简洁但功能齐全的网页应用。"chongcizhongkao" 是一个专为中考生设计的在线模拟答题平台，旨在提供中考英语真题的实战体验。通过这个应用，学生们可以练习中考英语真题，检测自己的基础知识和应试能力。在完成练习后，学生们可以在分数结果页面查看自己的成绩，并通过展示的二维码快速访问相关的教育资源。
 
-## Project setup
-```
-yarn install
-```
+## 技术栈
+Vue.js 2
+Vuex
+其他相关技术如 Vue Router 和 Node.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 项目亮点
+一个简单但完整的 Vue 2 和 Vuex 的应用实例。
+真实的考试体验：提供最接近实际中考的在线模拟环境，帮助学生适应考试的格式和难度。
+直观的成绩展示：在用户完成题目后，立即展示分数，并提供详细的答题反馈。
+引流功能：在分数结果页面展示二维码，用户扫描后可以快速访问其他相关教育资源，方便用户获取更多学习资料。
+简洁高效的用户界面：借助 Vue.js 的高效性，应用提供了一个流畅且直观的用户界面。
